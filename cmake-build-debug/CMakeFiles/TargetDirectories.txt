@@ -1,0 +1,3 @@
+C:/Users/dimam/OneDrive/Робочий стіл/Football/cmake-build-debug/CMakeFiles/Football.dir
+C:/Users/dimam/OneDrive/Робочий стіл/Football/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dimam/OneDrive/Робочий стіл/Football/cmake-build-debug/CMakeFiles/rebuild_cache.dir

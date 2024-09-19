@@ -1,0 +1,14 @@
+# ninja log v6
+59	1260	7484632215174292	CMakeFiles/Football.dir/Player.cpp.obj	71cfb569083b42fa
+25	1354	7484632214829064	CMakeFiles/Football.dir/Forward.cpp.obj	5b78a814819b16a8
+7	1355	7484632214649074	CMakeFiles/Football.dir/Defender.cpp.obj	624955696b1f0807
+54	1396	7484632215119480	CMakeFiles/Football.dir/Midfielder.cpp.obj	f9d8d230d588150c
+41	1412	7484632214991392	CMakeFiles/Football.dir/Goalkeeper.cpp.obj	64ff8e778604e328
+47	1609	7484632215051548	CMakeFiles/Football.dir/main.cpp.obj	acb642b6faa035ff
+34	1698	7484632214899667	CMakeFiles/Football.dir/functions.cpp.obj	6d37aa9b5329b4
+85	1744	7484632215429166	CMakeFiles/Football.dir/Team.cpp.obj	fb4215bf74f902e7
+17	743	7484632706320334	CMakeFiles/Football.dir/Tactic.cpp.obj	70b960a2fb80f7f8
+13	815	7484632706282198	CMakeFiles/Football.dir/main.cpp.obj	acb642b6faa035ff
+8	943	7484632706236134	CMakeFiles/Football.dir/functions.cpp.obj	6d37aa9b5329b4
+20	968	7484632706346537	CMakeFiles/Football.dir/Team.cpp.obj	fb4215bf74f902e7
+968	1129	7484632715828051	Football.exe	41c1b5cc80c53125
